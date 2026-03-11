@@ -14,13 +14,13 @@ subjectMaster;;;;Mathématiques;4
 subjectMaster;;;;SVT;1.5
 subjectMaster;;;;Histoire-Géographie/Ens. Moral & Civique;3
 subjectMaster;;;;Latin;1
+student;louis_abric_0vgc;Louis;ABRIC;cls_tatull;Secondes;abric.l;608830;0;[]
+student;jade_cierniak_qnsj;Jade;CIERNIAK;cls_tatull;Secondes;cierniak.j;272991;0;[]
+student;javier_gonzalez_lopez_7q0h;Javier;GONZALEZ LOPEZ;cls_tatull;Secondes;gonzalezlopez.j;289577;0;[]
 student;clément_pommé_kpuh;Clément;POMMÉ;cls_4jp713;Famille;pomme.c;876533;0;[]
 student;benoît_pommé_5gir;Benoît;POMMÉ;cls_4jp713;Famille;pomme.b;848123;0;[]
 student;anne_pommé_zv9a;Anne;POMMÉ;cls_4jp713;Famille;pomme.a;724004;0;[]
 student;laurent_pommé_eyot;Laurent;POMMÉ;cls_4jp713;Famille;pomme.l;340490;0;[]
-student;louis_abric_0vgc;Louis;ABRIC;cls_tatull;Secondes;abric.l;608830;0;[]
-student;javier_gonzalez_lopez_7q0h;Javier;GONZALEZ LOPEZ;cls_tatull;Secondes;gonzalezlopez.j;289577;0;[]
-student;jade_cierniak_qnsj;Jade;CIERNIAK;cls_tatull;Secondes;cierniak.j;272991;0;[]
 class;cls_4jp713;Famille
 classSubject;cls_4jp713;Travaux Divers
 classSubject;cls_4jp713;Informatique
@@ -873,3 +873,4 @@ appreciation;app_h14wqib1nk8;laurent_pommé_eyot;T1;Savoir-vivre;Un bon trimestr
 appreciation;app_o78ej2t43i;laurent_pommé_eyot;T1;GLOBAL;Aucun investissement mais une volonté de bien faire et un sérieux irréprochable en collectivité, c'est très bien !
 appreciation;app_qilvs5vcdv;benoît_pommé_5gir;T1;SVT;Un trimestre très satisfaisant, continue ainsi.
 appreciation;app_wmx4rmp56f;clément_pommé_kpuh;T1;Savoir-vivre;Malgré une attitude quelques fois impertinente, Clément reste un élève sage et serviable, avec un bon état d'esprit. Son investissement en classe est irréprochable. C'est TRÈS bien !
+message;admin;jade_cierniak_qnsj;Salut;19:18;1
